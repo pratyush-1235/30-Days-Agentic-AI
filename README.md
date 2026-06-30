@@ -153,8 +153,7 @@ Copy this into a personal `PROGRESS.md` and check off as you go:
 
 ## 🚀 Flagship Projects
 
-Built progressively throughout the course, fully implemented in [`projects/`](projects/):
-
+you can do for your own practice or resume :
 1. AI Research Assistant
 2. Personal AI Tutor
 3. AI Coding Assistant
