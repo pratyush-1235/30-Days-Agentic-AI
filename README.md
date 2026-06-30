@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="assets/images/banner-placeholder.png" alt="30 Days of Agentic AI" width="100%"/>
 
 # 🤖 30 Days of Agentic AI
 
